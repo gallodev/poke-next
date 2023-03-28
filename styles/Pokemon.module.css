@@ -125,3 +125,9 @@
   .data_height {
     border-right: 1px solid #ccc;
   }
+
+  .pokemon_loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

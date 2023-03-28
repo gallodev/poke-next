@@ -17,7 +17,6 @@ export async function getServerSideProps () {
   }
 }
 export default function Home({pokemons}) {    
-  console.log(pokemons);
   return (
     <div className={styles.home}>
       <div className={styles.title_container}>
