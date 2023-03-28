@@ -1,0 +1,16 @@
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.about h1 {
+    margin-bottom: 2em;
+}
+
+.about p{
+    width: 700px;
+    margin-bottom: 5em;
+    text-align: center;
+}
